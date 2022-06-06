@@ -1,0 +1,59 @@
+= Stunning Presentations
+Prabhu R
+:imagesdir: images
+:title-slide-background-image: sea.jpg
+:title-slide-transition: fade
+:title-slide-transition-speed: fast
+:experimental: true
+
+== A Great Story
+
+image::galaxy.jpg[background, size='cover']
+Press kbd:[s] for Speaker View that displays notes  
+
+[.notes]
+--
+* tell anecdote
+* make a point
+--
+
+[transition='convex']
+== Transition Convex
+
+This slide has a `convex` effect
+
+[background-color="gray"]
+[transition='zoom']
+== Transition Zoom
+
+This slide has a `zoom` effect,
+
+[background-color="teal"]
+[transition='zoom']
+== Vertical Slides
+
+This is a Vertical slide,  click kbd:[&#x2193;] to see vertical slides
+
+[background-color="crimson"]
+[transition='slide']
+=== Vertical Slide 1
+
+Vertical slide 1
+
+[background-color="brown"]
+[transition='slide']
+=== Vertical Slide 2
+
+Vertical slide 2
+
+[background-video="orca.mp4",options="loop,muted"]
+[transition='concave']
+== Background Video
+
+Background looping video
+
+[%notitle]
+[transition='concave']
+== THE END
+
+image::end.jpg[background, size=cover]
