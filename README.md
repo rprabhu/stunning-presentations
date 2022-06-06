@@ -3,7 +3,7 @@ Stunning presentations using Asciidoctor and RevealJS
 
 ## Prerequisites
 
-Ruby installed - https://ruby-lang.org
+Ruby installed - [https://ruby-lang.org](https://www.ruby-lang.org/en/)
 
 Inside the project directory, run the following commands in the command line window
 
@@ -27,3 +27,5 @@ If you want to upgrade the revealjs to the latest version future please delete t
 ```
 git clone -b <version> --depth 1 https://github.com/hakimel/reveal.js.git
 ```
+
+View the presentation here - https://rprabhu.github.io/stunning-presentations/presentation.html
